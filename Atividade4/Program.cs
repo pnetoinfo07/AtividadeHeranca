@@ -1,3 +1,5 @@
 ﻿using Atividade4;
 
-List<Forma> Formas = new List<Forma>();
+Circulo f = new Circulo();
+
+f.CalcularArea(3.65);

@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Atividade4
+namespace Atividade6
 {
-    public abstract class Forma
+    public abstract class InstrumentoMusical
     {
-        public abstract void CalcularArea(double valor);
+        public abstract void Tocar();
     }
 }
